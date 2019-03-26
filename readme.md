@@ -1,3 +1,5 @@
+# Trello -> https://trello.com/b/yJdcJduO/e18cp1a1
+
 # Experiencia 18 - Actividad Presencial I
 ## SCRUM - Agilidad
 
